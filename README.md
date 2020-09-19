@@ -1,2 +1,2 @@
 # hello-world
-New Ideas here. 
+New Ideas Here. 
